@@ -17,11 +17,11 @@ This is a script language developed C for Linux.
 
 ## How does it look like?
 
-![image-20210625172408475](/home/akatsuki/桌面/image1.png)
+![image-Run Without File](/images/image1.png)
 
-[^When it runs without File.]: 
+ When it runs without File.
 
-![image-20210625173138610](/home/akatsuki/桌面/image-2.png)
+![image-Run With File](/images/image-2.png)
 
-[^When it runs with File.]: 
+When it runs with File.
 
